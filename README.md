@@ -1,5 +1,5 @@
 # Bike_Sharing
-Click here to view my story on Tableau: [link to dashboard](https://public.tableau.com/app/profile/dj.geroux/viz/NYCCitibikeChallenge_16560030145510/NYCCitibikeStory?publish=yes)
+Click here to view my story on Tableau: [Link to Dashboard](https://public.tableau.com/app/profile/dj.geroux/viz/NYCCitibikeChallenge_16560030145510/NYCCitibikeStory?publish=yes)
 
 ## Overview of Analysis
 The purpose of this analysis is to create visualizations that provide insights for investors to support a bike-sharing program in Des Moines, Iowa. From the given dataset, we were able to create visualizations to see trip duration, trop duration based on gender, peak usage, peak usage based on gender, usage based on user type (subscriber vs customer), a breakdown of user types, and a breakdown of user gender.
